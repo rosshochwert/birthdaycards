@@ -1,0 +1,31 @@
+{
+  "name": "birthdaycards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "@sendgrid/client": "^7.2.3",
+    "@sendgrid/mail": "^7.2.3",
+    "netlify-lambda": "^2.0.1",
+    "stripe": "^8.85.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "uuid": "^8.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

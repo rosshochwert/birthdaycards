@@ -1,0 +1,6 @@
+# netlify.toml 
+
+[build]
+  publish = "src"
+  command = "npm run build"
+  functions = "functions-build"
