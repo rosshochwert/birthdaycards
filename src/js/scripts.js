@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
 
 	// Wrap every letter in a span
-	words = ["handwritten cards", "close friends", "thoughtfullness"]
+	words = ["handwritten cards", "close friends", "thoughtfulness"]
 	addAnimation(words[0])
 	i = 1;
 	function addAnimation(name){
